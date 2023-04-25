@@ -61,11 +61,11 @@ void print_welcome() {
     getcwd(cwd, PATH_MAX); // get the current working directory
 
     printf("\n");
-    printf("########################################################\n");
-    printf("#                                                      #\n");
-    printf("#              Welcome to My Decorated Shell!          #\n");
-    printf("#                                                      #\n");
-    printf("########################################################\n");
+    printf("###############################################################\n");
+    printf("#                                                             #\n");
+    printf("#                 Welcome to Min_Peace Shell!                 #\n");
+    printf("#                                                             #\n");
+    printf("###############################################################\n");
     printf("\n");
     printf("Username: %s\n", username);
     printf("Current directory: %s\n", cwd);
